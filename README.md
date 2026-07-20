@@ -178,7 +178,7 @@ pnpm install
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open [https://care-compiler.vercel.app/](https://care-compiler.vercel.app/).
 
 The guided demo path is:
 
